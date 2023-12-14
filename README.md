@@ -1,0 +1,1 @@
+A simulation of the processes of the operating system when it is going through calling the Program Counter, Instruction Register, Accumulator, and Special Register in order to pull locations from memory with their relevant data and manipulated into and from virtual memory. It also includes calls to subroutines, and will print all relevant data during the operations. 
